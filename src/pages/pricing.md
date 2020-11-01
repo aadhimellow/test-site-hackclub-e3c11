@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: FAQ
 sections:
   - section_id: faq
     type: section_faq
