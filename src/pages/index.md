@@ -8,7 +8,7 @@ sections:
     content: ''
     actions:
       - label: NEW
-        url: /features
+        url: /signup
         primary: true
   - section_id: features
     type: section_features
