@@ -15,7 +15,8 @@
             },
             {
                 "label": "About",
-                "url": "/about"
+                "url": "/about",
+                "primary": true
             },
             {
                 "label": "",
