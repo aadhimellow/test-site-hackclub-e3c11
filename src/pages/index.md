@@ -7,7 +7,7 @@ sections:
     title: Let Us Discover Something
     content: ''
     actions:
-      - label: Learn More
+      - label: NEW
         url: /features
         primary: true
   - section_id: features
