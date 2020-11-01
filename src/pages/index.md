@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image: images/hero.png
-    title: Let Us Discover Something NEW
+    title: Let Us Discover Something
     content: ''
     actions:
       - label: Learn More
