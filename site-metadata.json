@@ -19,10 +19,6 @@
                 "primary": false
             },
             {
-                "label": "",
-                "url": "/style-guide"
-            },
-            {
                 "label": "Sign Up",
                 "url": "/signup",
                 "primary": true
