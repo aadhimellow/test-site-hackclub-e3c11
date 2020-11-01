@@ -3,7 +3,7 @@ title: HackClubKMEA
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/11_thumb.jpg
     title: Let Us Discover Something
     content: ''
     actions:
